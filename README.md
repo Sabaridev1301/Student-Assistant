@@ -139,5 +139,5 @@ change, since it only calls `db.get('<collection>')`.
 
 ## Author
 
-**Ashwin A** — B.E. Computer Science and Engineering, Government College of
+**Sabareeshwaran D** — B.E. Computer Science and Engineering, Government College of
 Engineering, Bodinayakanur (Anna University), 2026–2027.
